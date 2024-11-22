@@ -6,6 +6,7 @@ import re
 from collections import defaultdict
 #Script created to parse curation reports provided by inleo. This case just to provide some reports
 #From their organic curation
+#by @gwajnberg
 
 
 # Set up logging
