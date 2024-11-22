@@ -25,4 +25,7 @@ git clone <repository_url> cd <repository_name>
   ```
 
 3. Run the script:
-python leo_organic_curation_report_parser.py
+  ```
+  python leo_organic_curation_report_parser.py
+  ```
+
