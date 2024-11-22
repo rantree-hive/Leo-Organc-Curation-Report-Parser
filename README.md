@@ -28,4 +28,17 @@ git clone <repository_url> cd <repository_name>
   ```
   python leo_organic_curation_report_parser.py
   ```
+4. Example of output:
 
+```
+
+gloreal 6 (4 by uyobong, 2 by princessbusayo)
+```
+
+
+## Requirements
+
+- Python 3.x
+- `requests` library
+
+---
