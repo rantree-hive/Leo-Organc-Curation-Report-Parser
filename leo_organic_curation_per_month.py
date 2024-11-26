@@ -6,6 +6,10 @@ import re
 from collections import defaultdict
 from datetime import datetime
 
+#Script created to parse curation reports provided by inleo. This case just to provide some reports
+#From their organic curation
+#by @gwajnberg
+
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
