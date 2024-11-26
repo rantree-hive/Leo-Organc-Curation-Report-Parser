@@ -24,7 +24,7 @@ git clone <repository_url> cd <repository_name>
   pip install requests
   ```
 
-3. Run the script:
+3. Run the script for all reports:
   ```
   python leo_organic_curation_report_parser.py
   ```
@@ -34,6 +34,11 @@ git clone <repository_url> cd <repository_name>
 
 gloreal 6 (4 by uyobong, 2 by princessbusayo)
 ```
+5. Run the script grouping by month:
+
+ ```
+  python leo_organic_curation_per_month.py
+  ```
 
 
 ## Requirements
